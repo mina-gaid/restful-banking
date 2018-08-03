@@ -1,4 +1,4 @@
-# banking 420
+# Banking 420
 A RESTful API written using Java as part of the Web Services and API development module (Group O) at NCI.
 
 ## Setup
