@@ -1,5 +1,8 @@
-# Banking 420
-A RESTful API written using Java as part of the Web Services and API development module (Group O) at NCI.
+## Description
+
+A RESTful API service based Banking Application.
+
+This project was made and submitted in collaboration with six team members for our college Web Services and API development module.
 
 ## Setup
 
